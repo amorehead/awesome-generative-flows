@@ -14,7 +14,7 @@ Awesome papers related to generative flow matching and its applications in bioin
   <img src="https://contrib.rocks/image?repo=amorehead/awesome-generative-flows" />
 </a>
 
-### Open-source Methods for Flow Matching Models
+### Open-Source Methods for Flow Matching Models
 
 | Method Name                                                                                                                    | Year | Brief Description                                       | Source Code                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------------------------------- | --------------------------------------------------------------------- |
