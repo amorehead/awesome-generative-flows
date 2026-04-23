@@ -1,5 +1,5 @@
 # :robot: awesome-generative-flows
-[![Paper](http://img.shields.io/badge/Review_Paper-10.22541/au.175382408.89466370/v1-B31B1B.svg)](https://www.nature.com/articles/s42256-026-01220-0)
+[![Paper](http://img.shields.io/badge/Review_Paper-10.22541/au.175382408.89466370/v1-B31B1B.svg)](https://doi.org/10.22541/au.175382408.89466370/v1)
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 Awesome papers related to generative flow matching and its applications in bioinformatics.
