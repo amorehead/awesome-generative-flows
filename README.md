@@ -72,6 +72,7 @@ Awesome papers related to generative flow matching and its applications in bioin
 | Contrastive Flow Matching ([Stoica et al., 2025](https://github.com/gstoica27/DeltaFM))                              | 2025 | Unique conditional flows                                               | [GitHub](https://github.com/gstoica27/DeltaFM)             |
 | TFG‑Flow ([Lin et al., 2025](https://github.com/linhaowei1/TFG-Flow))                                                 | 2025 | Continuous‑discrete flow guidance                                      | [GitHub](https://github.com/linhaowei1/TFG-Flow)           |
 | SDE Matching ([Bartosh et al., 2025](https://github.com/GrigoryBartosh/sde_matching))                                 | 2025 | Simulation‑free latent SDEs                                            | [GitHub](https://github.com/GrigoryBartosh/sde_matching)   |
+| MEND ([Saini et al., 2026](https://arxiv.org/abs/2610.05954)) | 2026 | Reward post-training of flow models via proximal velocity matching | [GitHub](https://github.com/shreshthsaini/MEND-RL) |
 
 ### Application-Specific Flow Matching Models
 
